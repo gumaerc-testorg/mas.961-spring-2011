@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes homework exercises.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-961-networks-complexity-and-its-applications-spring-2011/fbf4a17229351f947bb17ccb84522a67_MITMAS_961S11_HW3_API309.pdf
+file: /media/courses/mas-961-networks-complexity-and-its-applications-spring-2011/fbf4a17229351f947bb17ccb84522a67_MITMAS_961S11_HW3_API309.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MITMAS_961S11_HW3_API309.pdf
 uid: fbf4a172-2935-1f94-7bb1-7ccb84522a67
