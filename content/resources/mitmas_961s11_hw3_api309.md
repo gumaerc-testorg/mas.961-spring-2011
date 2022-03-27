@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8ebed035-7e15-fb5c-4dcf-2fa8482f60dc
 resourcetype: Document
 title: MITMAS_961S11_HW3_API309.pdf
 uid: fbf4a172-2935-1f94-7bb1-7ccb84522a67

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8ebed035-7e15-fb5c-4dcf-2fa8482f60dc
 resourcetype: Document
 title: MITMAS_961S11_VisualFinal.pdf
 uid: 0af196f5-0f07-f966-f5b5-a72034846aa8

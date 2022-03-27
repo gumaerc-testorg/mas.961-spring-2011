@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8ebed035-7e15-fb5c-4dcf-2fa8482f60dc
 resourcetype: Document
 title: MITMAS_961S11_Networkpaper.pdf
 uid: 2c59817b-d3a1-6c7a-0a31-0831b98bc476

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8ebed035-7e15-fb5c-4dcf-2fa8482f60dc
 resourcetype: Document
 title: MITMAS_961S11_ChicagoFINAL.pdf
 uid: 92db8385-7b18-33cf-56ac-0c452eb9e9d0

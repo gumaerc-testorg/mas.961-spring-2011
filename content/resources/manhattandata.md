@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8ebed035-7e15-fb5c-4dcf-2fa8482f60dc
 resourcetype: Other
 title: ManhattanData.xlsx
 uid: 84198f37-508b-3ddf-dc76-3c9bae41df9b
