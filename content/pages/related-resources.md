@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a video of Professor Hidalgo presenting "Global
+  Product Spaces" at TEDxBoston.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

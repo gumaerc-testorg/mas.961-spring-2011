@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required readings for each session
+  of the course and a list of additional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -39,7 +41,7 @@ Introduction to Network Structure
 {{< tdopen >}}
 
 
-Albert, R., and A-L Barabási. "Statistical Mechanics of Complex Networks." _Reviews of Modern Physics_ 74 (2002): 47-97. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.47))
+Albert, R., and A-L Barabási. "Statistical Mechanics of Complex Networks." _Reviews of Modern Physics_ 74 (2002): 47-97. ([PDF](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.47))
 
 Watts, D. J., and S. H. Strogatz. "[Collective Dynamics of 'Small-world' Networks](http://www.nature.com/nature/journal/v393/n6684/abs/393440a0.html)." _Nature_ 393 (1998): 440-2.
 
@@ -83,7 +85,7 @@ Qualifying Networks
 {{< tdopen >}}
 
 
-Barabási, Albert-László, and Jennifer Frangos. "Six Degrees of Separation." In _Linked: The New Science Of Networks_. Perseus Books Group, 2002, pp. 25-40. ISBN: 978073820667. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://barabasi.com/f/632.pdf))
+Barabási, Albert-László, and Jennifer Frangos. "Six Degrees of Separation." In _Linked: The New Science Of Networks_. Perseus Books Group, 2002, pp. 25-40. ISBN: 978073820667. ([PDF](https://barabasi.com/f/632.pdf))
 
 ———. "Hubs and Connectors." In _Linked: The New Science Of Networks_. Perseus Books Group, 2002, pp. 55-64. ISBN: 978073820667.
 
@@ -108,7 +110,7 @@ Bianconi, G., N. Gulbahce, et al. "[Local Structure of Directed Networks](http:/
 
 Saramäki, J., et al. "[Generalizations of the Clustering Coefficient to Weighted Complex Networks](http://arxiv.org/abs/cond-mat/0608670)." _Physical Review E_ 75 (2007): 027105.
 
-Girvan, M., and M. E. J. Newman. "Community Structure in Social and Biological Networks." _PNAS_ 99 (2002): 7821-6. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pnas.org/content/99/12/7821.full.pdf))
+Girvan, M., and M. E. J. Newman. "Community Structure in Social and Biological Networks." _PNAS_ 99 (2002): 7821-6. ([PDF](http://www.pnas.org/content/99/12/7821.full.pdf))
 
 Palla, G., I. Derényi, et al. "[Uncovering the Overlapping Community Structure of Complex Networks in Nature and Society](http://dx.doi.org/10.1038/nature03607)." _Nature_ 435 (2005): 814-8.
 
@@ -141,7 +143,7 @@ Barabási, Albert-László, and Jennifer Frangos. "Achilles' Heel." In _Linked: 
 {{< tdopen >}}
 
 
-Palla, G., A-L Barabási, et al. "Quantifying Social Group Evolution." _Nature_ 446, no. 7136 (2007): 664-7. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cfinder.org/pmwiki/papers/com_evolv.pdf))
+Palla, G., A-L Barabási, et al. "Quantifying Social Group Evolution." _Nature_ 446, no. 7136 (2007): 664-7. ([PDF](http://cfinder.org/pmwiki/papers/com_evolv.pdf))
 
 Onnela, J-P, et al. "[Structure and Tie Strengths in Mobile Communication Networks](http://www.pnas.org/content/104/18/7332.abstract)." _PNAS_ 104, no. 18 (2007): 7332-6.
 
@@ -157,13 +159,13 @@ Dunbar, R. I. M. "[Neocortex Size as a Constraint on Group Size in Primates](htt
 
 Fowler, J. H., and N. A. Christakis. "[Dynamic Spread of Happiness in a Large Social Network: Longitudinal Analysis Over 20 Years in the Framingham Heart Study](http://www.bmj.com/content/337/bmj.a2338.full)." _British Medical Journal_ 337 (2008): a2338.
 
-Christakis, N. A., and J. H. Fowler. "The Collective Dynamics of Smoking in a Large Social Network." _New England Journal of Medicine_ 358, no. 21 (2008): 2249-58. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://jhfowler.ucsd.edu/collective_dynamics_of_smoking.pdf))
+Christakis, N. A., and J. H. Fowler. "The Collective Dynamics of Smoking in a Large Social Network." _New England Journal of Medicine_ 358, no. 21 (2008): 2249-58. ([PDF - 1.4MB](http://jhfowler.ucsd.edu/collective_dynamics_of_smoking.pdf))
 
-———. "The Spread of Obesity in a Large Social Network Over 32 Years." _New England Journal of Medicine_ 357, no. 4 (2007): 370-9. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](http://jhfowler.ucsd.edu/spread_of_obesity.pdf))
+———. "The Spread of Obesity in a Large Social Network Over 32 Years." _New England Journal of Medicine_ 357, no. 4 (2007): 370-9. ([PDF - 1.1MB](http://jhfowler.ucsd.edu/spread_of_obesity.pdf))
 
-Centola, D., V. Eguiluz, et al. "Cascade Dynamics of Complex Propagation." _Physica A_ 374 (2007): 449-56. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ndg.asc.upenn.edu/wp-content/uploads/2016/04/Centola-et-al-2007-PA.pdf))
+Centola, D., V. Eguiluz, et al. "Cascade Dynamics of Complex Propagation." _Physica A_ 374 (2007): 449-56. ([PDF](http://ndg.asc.upenn.edu/wp-content/uploads/2016/04/Centola-et-al-2007-PA.pdf))
 
-Aral, S., L. Muchnik, et al. "Distinguishing Influence-based Contagion from Homophily-driven Diffusion in Dynamic Networks." _Proc Natl Acad of Sci 106_ (2009): 21544-9. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://www.pnas.org/content/106/51/21544.full.pdf))
+Aral, S., L. Muchnik, et al. "Distinguishing Influence-based Contagion from Homophily-driven Diffusion in Dynamic Networks." _Proc Natl Acad of Sci 106_ (2009): 21544-9. ([PDF - 1.4MB](http://www.pnas.org/content/106/51/21544.full.pdf))
 
 
 {{< tdclose >}}
@@ -201,7 +203,7 @@ Hidalgo, C. A., and R. Hausmann. "[The Building Blocks of Economic Complexity](h
 
 Hidalgo, C. A., B. Klinger, et al. "[The Product Space Conditions the Development of Nations](http://www.sciencemag.org/content/317/5837/482.short)." _Science_ 317 (2007): 482-7.
 
-Hidalgo, C. A., and R. Hausmann. "A Network View of Economic Development." _Developing Alternatives_ 12, no. 1 (2008): 5-10. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/313677958_A_network_view_of_economic_development))
+Hidalgo, C. A., and R. Hausmann. "A Network View of Economic Development." _Developing Alternatives_ 12, no. 1 (2008): 5-10. ([PDF](https://www.researchgate.net/publication/313677958_A_network_view_of_economic_development))
 
 Hausmann, R, and C. A. Hidalgo. "[Country Diversity, Product Ubiquity and Economic Divergence](https://doi.org/10.2139/ssrn.1724722)." CID Working Paper No. 201, 2010.
 
@@ -248,19 +250,19 @@ Beinhocker, E. D. _The Origin of Wealth: Evolution, Complexity, and the Radical 
 
 Page, S. E. _The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies_. Princeton, NJ: Princeton University Press, 2007. ISBN: 9780691128382. \[Preview with [Google Books](http://books.google.com/books?id=FAFVHnJ7uK0C&pg=PAfrontcover)\]
 
-Lazer, D., and A. Friedman. "The Network Structure of Exploration and Exploitation." _Administrative Science Quarterly_ 52 (2007): 667-94. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.davidlazer.com/publication/network-structure-exploration-and-exploitation#:~:text=This%20paper%20examines%20how%20the,successful%20emulate%20the%20more%20successful.))
+Lazer, D., and A. Friedman. "The Network Structure of Exploration and Exploitation." _Administrative Science Quarterly_ 52 (2007): 667-94. ([PDF](https://www.davidlazer.com/publication/network-structure-exploration-and-exploitation#:~:text=This%20paper%20examines%20how%20the,successful%20emulate%20the%20more%20successful.))
 
 Kauffmann, S. A. _The Origins of Order: Self-Organization and Selection in Evolution_. New York, NY: Oxford University Press, 1993. ISBN: 9780195079517. \[Preview with [Google Books](http://books.google.com/books?id=lZcSpRJz0dgC&pg=PAfrontcover)\]
 
-Fowler, J. H., C. T. Dawes, et al. "Model of Genetic Variation in Human Social Networks." _Proc Natl Acad of Sci_ 106, no. 6 (2009): 1720-4. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://jhfowler.ucsd.edu/genes_and_social_networks.pdf))
+Fowler, J. H., C. T. Dawes, et al. "Model of Genetic Variation in Human Social Networks." _Proc Natl Acad of Sci_ 106, no. 6 (2009): 1720-4. ([PDF](http://jhfowler.ucsd.edu/genes_and_social_networks.pdf))
 
-Fowler, J. H., and D. Schreiber. "Biology, Politics, and the Emerging Science of Human Nature." _Science_ 322, no. 5903 (2008): 912-4. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF)](http://jhfowler.ucsd.edu/biology_and_politics.pdf)
+Fowler, J. H., and D. Schreiber. "Biology, Politics, and the Emerging Science of Human Nature." _Science_ 322, no. 5903 (2008): 912-4. ([PDF)](http://jhfowler.ucsd.edu/biology_and_politics.pdf)
 
-Fowler, J. H., and C. T. Dawes. "Two Genes Predict Voter Turnout." _Journal of Politics_ 70, no. 3 (2008): 579-94. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://jhfowler.ucsd.edu/two_genes_predict_voter_turnout.pdf))
+Fowler, J. H., and C. T. Dawes. "Two Genes Predict Voter Turnout." _Journal of Politics_ 70, no. 3 (2008): 579-94. ([PDF](http://jhfowler.ucsd.edu/two_genes_predict_voter_turnout.pdf))
 
-Cesarini, D., C. T. Dawes, et al. "Heritability of Cooperative Behavior in the Trust Game." _Proc Natl Acad of Sci_ 105, no. 10 (2008): 3721-6. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 13.3MB](http://jhfowler.ucsd.edu/heritability_of_cooperative_behavior.pdf))
+Cesarini, D., C. T. Dawes, et al. "Heritability of Cooperative Behavior in the Trust Game." _Proc Natl Acad of Sci_ 105, no. 10 (2008): 3721-6. ([PDF - 13.3MB](http://jhfowler.ucsd.edu/heritability_of_cooperative_behavior.pdf))
 
-Jackson, M. O. "Genetic Influences on Social Network Characteristics." _Proc Natl Acad of Sci_ 106, no. 6 (2009): 1687-8. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://jhfowler.ucsd.edu/pnas_jackson_commentary.pdf))
+Jackson, M. O. "Genetic Influences on Social Network Characteristics." _Proc Natl Acad of Sci_ 106, no. 6 (2009): 1687-8. ([PDF](http://jhfowler.ucsd.edu/pnas_jackson_commentary.pdf))
 
 
 {{< tdclose >}}
@@ -326,9 +328,9 @@ Topic to be determined based on progression of class (cont.)
 {{< tdopen >}}
 
 
-Hidalgo, C. A., et al. "The Product Space Conditions the Development of Nations." _Sceince_ 317 (2007). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](https://science.sciencemag.org/content/317/5837/482/tab-pdf))
+Hidalgo, C. A., et al. "The Product Space Conditions the Development of Nations." _Sceince_ 317 (2007). ([PDF - 1.8MB](https://science.sciencemag.org/content/317/5837/482/tab-pdf))
 
-Hidalgo, Cesar A., and Richard Hausmann. "The Building Blocks of Economic Complexity." _PNAS_ 106, no. 26 (2009): 10570–5. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.4MB](http://www.pnas.org/content/106/26/10570.abstract))
+Hidalgo, Cesar A., and Richard Hausmann. "The Building Blocks of Economic Complexity." _PNAS_ 106, no. 26 (2009): 10570–5. ([PDF - 5.4MB](http://www.pnas.org/content/106/26/10570.abstract))
 
 
 {{< tdclose >}}
