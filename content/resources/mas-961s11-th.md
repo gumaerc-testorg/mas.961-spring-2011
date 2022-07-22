@@ -11,10 +11,10 @@ image_metadata:
   image-alt: A blue, a pink, and a yellow collection of dots that are connected to
     one another, within their colors, by lines.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-961s11-th.jpg
 uid: ba61a6d8-069c-5fad-88a1-065686b4a1c9
 ---
 An illustration These illustrations come from data on disease-disease associations. Mother, Father, and Child Brushes. Cesar Hidalgo, 2006-2007.
-

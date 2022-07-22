@@ -5,6 +5,7 @@ file: /courses/mas-961-networks-complexity-and-its-applications-spring-2011/02e4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITMAS_961S11_HW2_API309.pdf
 uid: 02e4e1e6-79eb-8681-649e-70b073527cef
 ---
 This resource includes problems set.
-
