@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the Chicago world's fair by MIT
   Students
-file: /courses/mas-961-networks-complexity-and-its-applications-spring-2011/92db83857b1833cf56ac0c452eb9e9d0_MITMAS_961S11_ChicagoFINAL.pdf
+file: /ol-ocw-studio-app/courses/mas-961-networks-complexity-and-its-applications-spring-2011/92db83857b1833cf56ac0c452eb9e9d0_MITMAS_961S11_ChicagoFINAL.pdf
 file_size: 61568
 file_type: application/pdf
 learning_resource_types:
