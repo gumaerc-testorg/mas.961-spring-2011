@@ -12,4 +12,4 @@ Professor Hidalgo presents "Global Product Spaces" at TEDxBoston.
 
 {{< resource uuid="8d3b6ad0-e901-1ab8-f526-e9513e333f9f" >}}
 
-This video was produced and provided by [TEDxBoston](https://tedxboston.com/) via [YouTube](http://www.youtube.com/), and is not covered under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).
+This video was produced and provided by [TEDxBoston](https://tedxboston.com/) via [YouTube](http://www.youtube.com/), and is not covered under our [Creative Commons license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
