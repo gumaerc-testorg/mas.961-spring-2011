@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes homework exercises.
-file: /ol-ocw-studio-app/courses/mas-961-networks-complexity-and-its-applications-spring-2011/fbf4a17229351f947bb17ccb84522a67_MITMAS_961S11_HW3_API309.pdf
+file: /courses/mas-961-networks-complexity-and-its-applications-spring-2011/fbf4a17229351f947bb17ccb84522a67_MITMAS_961S11_HW3_API309.pdf
 file_size: 89530
 file_type: application/pdf
 learning_resource_types:
